@@ -1,0 +1,11 @@
+.boton{
+  background-color: blueviolet;
+  color: yellow;
+  padding: 1rem;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  border: 0.5px solid gray;
+}
+
+.boton:hover{
+  background-color: cadetblue;
+}
